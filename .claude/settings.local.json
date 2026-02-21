@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:danluu.com)",
+      "WebFetch(domain:leerob.com)"
+    ]
+  }
+}
